@@ -1,0 +1,12 @@
+let promise = new Promise((resolve,reject)=>{
+    setTimeout(() => {
+     let success = true;
+if (success) {
+
+    resolve("operation is succesfull")
+}
+else{
+reject("operation is rejected")
+}
+    }, 1000);
+})

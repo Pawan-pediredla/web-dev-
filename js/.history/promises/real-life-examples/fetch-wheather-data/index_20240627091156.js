@@ -1,0 +1,3 @@
+function wheather(city){
+    const 
+}

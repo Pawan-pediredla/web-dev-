@@ -1,0 +1,1 @@
+asybnc function agregateData(useri)
