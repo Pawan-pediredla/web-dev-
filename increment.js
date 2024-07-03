@@ -14,6 +14,6 @@ count=0;
 }
 }
 )
-document.getElementById(#).addEventListener('click',counter.increment());
-document.getElementById(#).addEventListener('click',counter.decrement());
-document.getElementById(#).addEventListener('click',counter.reset());
+document.getElementById(#increment).addEventListener('click',counter.increment());
+document.getElementById(#decrement).addEventListener('click',counter.decrement());
+document.getElementById(#reset).addEventListener('click',counter.reset());
